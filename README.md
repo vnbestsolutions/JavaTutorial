@@ -1,2 +1,1 @@
-# JavaTutorial
-Cac bai thuc hanh ve java
+# Huong dan co ban ve java
